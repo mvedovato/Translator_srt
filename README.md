@@ -11,6 +11,7 @@ pip install googletrans==4.0.0-rc1
 
 ## Uso:
 ### Ejemplo para un archivo de 2755 líneas 
+```
 (Translator) :$time python3 Translator_srt.py input.srt 
 
     ================================================
@@ -27,3 +28,4 @@ pip install googletrans==4.0.0-rc1
 real	0m14,322s
 user	0m1,044s
 sys	0m0,055s
+```
